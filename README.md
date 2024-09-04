@@ -19,10 +19,10 @@
 
 ### Extra Features:
 * * *
-- Rich text Editor
+- Rich text Editor.
 - Can make text Bold, Italic, Strikethrough etc.
 - Send message in a formatted way using Lists
-- Can share links and Images 
+- Can share links and Images. 
 
 ### Prerequisites:
 * * *
